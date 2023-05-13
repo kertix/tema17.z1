@@ -1,0 +1,21 @@
+.lisko{
+	display:inline;
+	border:1px solid black;
+	background-color:skyblue;
+	padding:30px;
+}
+
+
+
+ body{
+background-color:aqua;	
+	
+}
+.div{
+	width:31%;
+	
+}
+.img{
+	width:69%;
+	float:right;
+}
